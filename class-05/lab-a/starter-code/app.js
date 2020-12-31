@@ -41,7 +41,7 @@ function multiply(a, b) { //eslint-disable-line
     ];
 
     return returnArray;
-
+//solved by qatad
 }
 
 // Here is the test for multiply(); uncomment it to run it
